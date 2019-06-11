@@ -14,7 +14,6 @@ var friendsArray = [
             "4",
             "5"
         ],
-        sum: 36
     },
     {
         name: "Shannon",
@@ -31,7 +30,6 @@ var friendsArray = [
             "3",
             "3"
         ],
-        sum: 34
     },
     {
         name: "Jessica",
@@ -48,7 +46,6 @@ var friendsArray = [
             "4",
             "4"
         ],
-        sum: 40
     },
     {
         name: "Amanda",
@@ -65,7 +62,6 @@ var friendsArray = [
             "4",
             "5"
         ],
-        sum: 31
     }
 ];
 
